@@ -3,6 +3,7 @@ QR Code Generator Project
 Hi!!
 Welcome to the DSH QR Code Generator!
 This is a QR Generator created using HTML and Tailwind CSS Extension.
+
 How it works:
 - Run the HTML file 
 - Enter the URL address of the website that you want to create a qr code for
